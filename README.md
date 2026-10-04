@@ -225,6 +225,4 @@ Built at a hackathon by **Impact Innovators**
 
 ---
 
-## License
 
-MIT License — feel free to use, modify, and build on this project.
